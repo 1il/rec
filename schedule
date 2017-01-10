@@ -1,84 +1,76 @@
 Monday 
 2:30-7:00: Sleep 
-7:30-8:30: Network
-8:30-10:30: Discrete Math
-10:30-12:30: Java
-12:30-1:30: Discrete Math
-1:30-2:30: Java
-2:30-3:30: C
-3:30-4:30: Network
-4:30-8:00: C
-8:00-10:30: Database
-10:30-12:30: Computer Architecture
-12:30-2:30: Calculus
+7:30-8:30: Computer Architecture
+8:30-10:30: Discrete Math (lab)
+10:30-12:30: Java (lab/break)
+12:30-1:30: Discrete Math (lect)
+1:30-2:30: Java (lect)
+2:30-3:30: C (lect)
+3:30-4:30: C
+4:00-8:00: C
+8:00-12:00: Database
+12:00-2:00: Computer Architecture
 -------------------------------------------
 
 Tuesday
-2:30-9:00: Sleep
-9:00-10:00: Database
-10:00-11:00: Discrete Math
-11:30-12:30: Network
-12:30-1:30: Java
-1:30-2:30: y
-2:30-3:30: Computer Architecture
-3:30-5:30: Database
-5:30-6:30: Network
-6:30-11:30: C
+2:00-9:00: Sleep
+9:00-11:00: Database
 11:30-12:30: Computer Architecture
+12:30-1:30: Java (lab)
+1:30-2:30: y BUS COMM
+2:30-3:30: Computer Architecture (lect)
+3:30-5:30: Database (lect)
+5:30-6:30: C
+6:30-10:30: C
+10:30-12:30: Discrete Math
 12:30-2:30: Java
 ---------------------------------------------
 
 Wednsday
 2:30-7:00: Sleep
-7:30-8:30: Network
-8:30-10:30: Database
-10:30-11:30: Discrete Math
-11:30-12:30: Database
-12:30-1:30: Computer Architecture
-1:30-2:30: Discrete Math
-2:30-3:30: Network
-3:30-8:30: C
-8:30-11:30: Java
-11:30-12:30: Computer Architecture
-12:30-2:30: Calculus
+7:30-8:30: Computer Architecture
+8:30-10:30: Java (lect/break)
+10:30-11:30: Y BUS COMM
+11:30-2:30: C(break/lect) 
+2:30-3:30: C
+3:30-5:30: C
+5:30-6:30: Java
+6:30-9:30: Discrete Math
+9:30-10:30: Computer Architecture
+10:30-2:30: Database
 ---------------------------------------------
 
 Thursday
 2:30-7:00: Sleep
-7:30-8:30: Network
-8:30-10:30: Database
-10:30-11:30: Discrete Math
-11:30-12:30: Database
-12:30-1:30: Computer Architecture
-1:30-2:30: Discrete Math
-2:30-3:30: Computer Architecture
-3:30-5:30: Y 
-5:30-6:30: Network
+7:30-8:30: Computer Architecture
+8:30-12:30: Database (lab/break/lect)
+12:30-1:30: Computer Architecture (lect)
+1:30-3:30: Discrete Math (lect/break)
+3:30-5:30: Y + 1 Discrete MAth if possible 
+5:30-6:30: C
 6:30-11:30: C
 11:30-2:30: Java
 -------------------------------------
 
 Friday 
 2:30-8:00: Sleep
-8:30-9:30: Network
-9:30-11:30: C
-11:30-12:30: Computer Architecture
-12:30-1:30: C
-1:30-3:30: C
-3:30-4:30: Computer Architecture 
-4:30-5:30: Network
-5:30-7:30: Java
-7:30-10:30: Database
-10:30-12:30: Discrete Math
-12:30-2:30: Calculus
+8:30-9:30: Computer Architecture
+9:30-11:30: Database (lab)
+11:30-12:30: Computer Architecture (lab)
+12:30-3:30: C (lect/break)
+3:30-4:30: Computer Architecture (lab) 
+4:30-5:30: C
+5:30-8:30: Java
+8:30-10:30: Database
+10:30-1:30: Discrete Math
+12:30-3:00: C
 ------------------------------------
 
 Saturday, Sunday
-3:00-10:00
-10:00-3:00: C
-3:00-6:00: Java
-6:00-9:00: Database
-9:00-11:00: Discrete Math
-11:00-12:30 Computer Architecture
-12:30-3:00 Calculus
+3:00-10:00: Sleep
+10:00-4:00: C
+4:00-7:00: Java
+7:00-10:00: Database
+10:00-1:00: Discrete Math
+1:00-3:00 Computer Architecture
 
